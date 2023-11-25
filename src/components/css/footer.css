@@ -1,0 +1,39 @@
+
+.footer{
+    height:150px;
+    background:black;
+    color:white;
+    display: flex;
+    position: relative;
+
+}
+.email{
+    padding: 15px;
+    margin-left: 35px;
+}
+.email input{
+    padding: 3px;
+    border-radius: 5px;
+}
+.email button{
+    margin: 2px;;
+    padding: 2px;
+    cursor: pointer;
+}
+.other{
+    padding: 25px;
+    /* padding-top: 10px; */
+    position:absolute;
+    right: 70px;
+}
+.other a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    
+
+}
+.copy{
+    position: absolute;
+    bottom: 5px;
+}

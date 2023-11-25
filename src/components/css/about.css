@@ -1,0 +1,12 @@
+.aboutimage img{
+    width: 98.9vw;
+    height: 400px;
+}
+.aboutpara{
+    width: 70%;
+    margin: auto;
+    font-size: 18px;
+}
+.aboutpara p{
+    margin: 35px;
+}

@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    background-color: #f3f3f3;
+    height: calc(100vh - 4vh);
+    margin: 0;
+    padding:0;
+}
+.detail-img{
+    height: 100%;
+    padding: 50px;
+    width: fit-content;
+}
+.title{
+    margin-bottom: 10px;
+}
+.published{
+    margin-bottom: 10px;
+}
+.all-detail{
+    padding: 50px;
+}
+.writer{
+    display: flex;
+    margin-bottom: 30px;
+}
+.first{
+    margin-right: 150px;
+}
+.description{
+    width: 70%;
+    margin-bottom: 10px;
+}
+.price-detail span{
+    background-color: #f3f3f3;
+}
